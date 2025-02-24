@@ -1,15 +1,43 @@
+.div-text01 {
+  margin-left: 910px;
+}
+
+.div-text02 {
+  margin-left: 1035px;
+  margin-top: -48px;
+}
+
+.div-text03 {
+  margin-left: 1185px;
+  margin-top: -48px;
+}
+
+.div-text04 {
+  margin-left: 1350px;
+  margin-top: -48px;
+}
+
 .texto01 {
-  color: red;
+  color: white;
+  font-weight: bold;
 }
 
 .texto02 {
-  color: red;
+  color: white;
+  font-weight: bold;
 }
 
 .texto03 {
-  color: red;
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
 }
 
 .texto04 {
+  color: white;
+  font-weight: bold;
+}
+
+.text1 {
   color: red;
 }

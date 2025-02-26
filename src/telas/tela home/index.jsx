@@ -4,8 +4,7 @@ import './style.css'
 function TelaHome() {
   return (
     <div>
-      <img src="images/logoneto.png" alt="Logotipo" className='logo' />
-
+      <img src="./src/assets/images/logoneto.png" alt="Logotipo" className='logo' />
 
       <div className='div01'>
         <div className='div-text01'>
@@ -40,7 +39,7 @@ function TelaHome() {
       <div>
         <div className='div05'>
           <div className='div06'>
-            <text>TEXTO TEXTO</text>
+            <span>TEXTO TEXTO</span>
           </div>
         </div>
         <button className='button06'>TEXTO TEXTO</button>

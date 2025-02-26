@@ -4,7 +4,8 @@ import './style.css'
 function TelaHome() {
   return (
     <div>
-      <img src="./src/assets/images/logoneto.png" alt="Logotipo" className='logo' />
+      <img src="/images/logoneto.png" alt="Logotipo" className='logo' />
+
 
       <div className='div01'>
         <div className='div-text01'>

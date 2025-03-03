@@ -83,12 +83,49 @@
   color: white;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+  margin-left: 10px;
 }
 
 .logo {
   width: 70px;
   height: 70px;
-  margin-top: -5px;
+  margin-top: -7px;
+}
+
+.logohtml {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
+}
+
+.logocss {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
+}
+
+.logojavascript {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
+}
+
+.logosql {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
+}
+
+.logonext {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
+}
+
+.logovite {
+  width: 35px;
+  height: 35px;
+  margin-left: -30px;
 }
 
 .div01 {

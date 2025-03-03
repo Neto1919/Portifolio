@@ -41,26 +41,32 @@ function TelaHome() {
           tecnologias HTML 5 e CSS 3. Também tenho conhecimento em SQL, o que me permite gerenciar e manipular bancos de dados de
           forma eficiente. Além disso, tenho experiência com frameworks como Nest.js e Vite, ferramentas essenciais para o
           desenvolvimento de aplicações web modernas.</p>
-          <p className='text6'>Atualmente, estou cursando o Bacharelado em Estatística na Universidade Estadual da Paraíba (UEPB). Estou ansioso para aplicar meus conhecimentos em projetos práticos e continuar desenvolvendo minhas habilidades em tecnologia.</p>
+        <p className='text6'>Atualmente, estou cursando o Bacharelado em Estatística na Universidade Estadual da Paraíba (UEPB). Estou ansioso para aplicar meus conhecimentos em projetos práticos e continuar desenvolvendo minhas habilidades em tecnologia.</p>
       </div>
       <div>
         <div className='div05'>
           <div className='div06'>
+            <img src="/images/logohtml.png" alt="Logotipo" className='logohtml' />
             <text className='textcaixa'>Html5</text>
           </div>
           <div className='div07'>
+            <img src="/images/logocss.png" alt="Logotipo" className='logocss' />
             <text className='textcaixa'>Css3</text>
           </div>
           <div className='div08'>
+            <img src="/images/logojavascript.png" alt="Logotipo" className='logojavascript' />
             <text className='textcaixa'>JavaScript</text>
           </div>
           <div className='div09'>
+            <img src="/images/logosql.png" alt="Logotipo" className='logosql' />
             <text className='textcaixa'>SQL</text>
           </div>
           <div className='div10'>
+            <img src="/images/logonext.png" alt="Logotipo" className='logonext' />
             <text className='textcaixa'>Next.js</text>
           </div>
           <div className='div11'>
+            <img src="/images/logovite.png" alt="Logotipo" className='logovite' />
             <text className='textcaixa'>Vite</text>
           </div>
         </div>

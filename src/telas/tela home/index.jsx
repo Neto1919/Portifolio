@@ -31,7 +31,9 @@ function TelaHome() {
           <button className='button05'>Contrata me</button>
         </div>
       </div>
-      <div className='div03'></div>
+      <div className='div03'>
+        <img src="/images/neto1.jpg" alt="foto" className='foto' />
+      </div>
 
       <div className='div04'></div>
       <div>
@@ -41,7 +43,9 @@ function TelaHome() {
           tecnologias HTML 5 e CSS 3. Também tenho conhecimento em SQL, o que me permite gerenciar e manipular bancos de dados de
           forma eficiente. Além disso, tenho experiência com frameworks como Nest.js e Vite, ferramentas essenciais para o
           desenvolvimento de aplicações web modernas.</p>
-        <p className='text6'>Atualmente, estou cursando o Bacharelado em Estatística na Universidade Estadual da Paraíba (UEPB). Estou ansioso para aplicar meus conhecimentos em projetos práticos e continuar desenvolvendo minhas habilidades em tecnologia.</p>
+        <p className='text6'>Atualmente, estou cursando o Bacharelado em Estatística na Universidade Estadual da Paraíba (UEPB). ]
+          Estou ansioso para aplicar meus conhecimentos em projetos
+          práticos e continuar desenvolvendo minhas habilidades em tecnologia.</p>
       </div>
       <div>
         <div className='div05'>
@@ -59,7 +63,7 @@ function TelaHome() {
           </div>
           <div className='div09'>
             <img src="/images/logosql.png" alt="Logotipo" className='logosql' />
-            <text className='textcaixa'>SQL</text>
+            <text className='textcaixa1'>SQL</text>
           </div>
           <div className='div10'>
             <img src="/images/logonext.png" alt="Logotipo" className='logonext' />
